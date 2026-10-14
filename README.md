@@ -2,7 +2,7 @@
 A custom solution for keeping Card IDs and their corresponding questions easily accessible when using filtered decks in Anki.
 
 # Screenshot
-<img width="1917" height="986" alt="image" src="https://github.com/user-attachments/assets/24b1e47d-3805-4108-895d-39f4c2c6edac" />
+<img width="1915" height="983" alt="image" src="https://github.com/user-attachments/assets/213a82b4-336b-49a6-9d05-a05a148318e9" />
 <img width="1917" height="908" alt="image" src="https://github.com/user-attachments/assets/442138ce-0827-40ca-9e35-f93a051f76da" />
 
 
