@@ -3,6 +3,8 @@ A custom solution for keeping Card IDs and their corresponding questions easily 
 
 # Screenshot
 <img width="1917" height="986" alt="image" src="https://github.com/user-attachments/assets/24b1e47d-3805-4108-895d-39f4c2c6edac" />
+<img width="1917" height="908" alt="image" src="https://github.com/user-attachments/assets/442138ce-0827-40ca-9e35-f93a051f76da" />
+
 
 ## The Problem
 Filtered decks are designed to be temporary, and they don't have a dedicated description field. When creating filtered decks using specific Card IDs for targeted reviews, I had to keep the Card IDs and their corresponding questions separately in Google Docs or Notepad.
