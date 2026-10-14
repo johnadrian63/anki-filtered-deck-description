@@ -1,17 +1,22 @@
 # Anki Filtered Deck Description
+A custom solution for keeping Card IDs and their corresponding questions easily accessible when using filtered decks in Anki.
 
-##Overview
+## The Problem
+Filtered decks are designed to be temporary, and they don't have a dedicated description field. When creating filtered decks using specific Card IDs for targeted reviews, I had to keep the Card IDs and their corresponding questions separately in Google Docs or Notepad.
 
-This project provides a custom workaround for keeping Card IDs and their corresponding questions organized for targeted reviews in Anki.
+## The Solution
+This project provides a workaround that makes it easier to reference Card IDs alongside their corresponding questions without relying on a separate document.
 
-## Problem
-
-Filtered decks are intended to be temporary and don't have a dedicated description field. When creating filtered decks using specific Card IDs, I previously had to keep the IDs and corresponding questions separately in Google Docs or Notepad.
-
-## Solution
-
-I used AI-assisted coding to develop a custom solution that helps address this limitation and makes it easier to reference Card IDs alongside their corresponding questions.
+## Installation
+- Download or clone this repository.
+- Locate the add-on's Python files.
+- In Anki, go to Tools → Add-ons → View Files.
+- Create a folder for the add-on inside the add-ons directory.
+- Copy the add-on files into that folder.
+- Restart Anki.
 
 ## Motivation
+I created this project to improve my own Anki study workflow and explore how AI-assisted coding can help solve practical problems by extending existing tools.
 
-This project started as a personal solution to improve my Anki study workflow. It demonstrates how AI can help developers solve practical problems and customize existing tools to better fit their needs.
+## Disclaimer
+This is a personal solution and is not an official feature of Anki.
