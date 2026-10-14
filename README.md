@@ -1,6 +1,9 @@
 # Anki Filtered Deck Description
 A custom solution for keeping Card IDs and their corresponding questions easily accessible when using filtered decks in Anki.
 
+# Screenshot
+<img width="1917" height="986" alt="image" src="https://github.com/user-attachments/assets/24b1e47d-3805-4108-895d-39f4c2c6edac" />
+
 ## The Problem
 Filtered decks are designed to be temporary, and they don't have a dedicated description field. When creating filtered decks using specific Card IDs for targeted reviews, I had to keep the Card IDs and their corresponding questions separately in Google Docs or Notepad.
 
